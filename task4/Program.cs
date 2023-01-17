@@ -17,5 +17,5 @@ if (number >= min)
 }
 else
 {
-    Console.Write($"Четных чисел от 1 до {number} нет, поскольку {number} меньше 1.");
+    Console.Write($"Четных чисел в промежутке от 1 до {number} нет, поскольку {number} меньше или равно 1.");
 }
